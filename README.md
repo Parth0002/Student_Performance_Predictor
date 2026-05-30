@@ -28,7 +28,7 @@ Predictions generated using testing data<br>
 Model evaluated using Mean Absolute Error<br>
 Trained model saved using Pickle<br>
 <h4>Learning Outcomes</h4>
-<h2>Through this project, I learned:<h2>
+<h6>Through this project, I learned:</h6>
 Data preprocessing<br>
 Feature engineering<br>
 Machine Learning workflow<br>
